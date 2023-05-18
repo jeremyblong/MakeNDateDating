@@ -1,7 +1,7 @@
 {
     "mongoURI": "",
     "cryptoSecret": "",
-    "awsSecretKey": "/P",
+    "awsSecretKey": "",
     "awsAccessKey": "",
     "awsRegion": "us-west-2",
     "awsBucketName": "dating-blockchain-mobile-app",
