@@ -1,0 +1,9 @@
+{
+  "name": "client",
+  "displayName": "client",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-7717876124897798~4808348201",
+    "ios_app_id": "ca-app-pub-7717876124897798~7092549006"
+  },
+  "userInterfaceStyle": "automatic"
+}
