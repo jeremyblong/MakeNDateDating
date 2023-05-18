@@ -131,7 +131,7 @@
       <meta-data android:name="expo.modules.updates.EXPO_SDK_VERSION" android:value="YOUR-APP-SDK-VERSION-HERE"/>
       <meta-data
         android:name="com.google.android.geo.API_KEY"
-        android:value="AIzaSyB0e0mpsWBR8dIYTpJF7bezWESXE86MnAY"
+        android:value="your-api-google-key-here"
       />
     </application>
 </manifest>
