@@ -33,7 +33,7 @@ static NSString *const kRNConcurrentRoot = @"concurrentRoot";
 {
   [FIRApp configure];
   RCTAppSetupPrepareApp(application);
-  [GMSServices provideAPIKey:@"AIzaSyB0e0mpsWBR8dIYTpJF7bezWESXE86MnAY"];
+  [GMSServices provideAPIKey:@"your-api-google-key-here"];
   RCTBridge *bridge = [[RCTBridge alloc] initWithDelegate:self launchOptions:launchOptions];
 
 #if RCT_NEW_ARCH_ENABLED
