@@ -2,7 +2,7 @@
 
 **MakeNDate** is a next-generation, feature-packed **social dating platform** built with the **MERN stack**. Unlike traditional apps, MakeNDate offers a gamified, community-driven experience that blends real-time interaction, meetups, mentorship, and live streaming — all in one cohesive ecosystem.
 
-🎥 [Watch Promo Video](https://youtu.be/SCp0Cyiozx8)
+🎥 [![Watch on YouTube][(https://blockchainsocialmedia.s3.us-east-1.amazonaws.com/Screenshot+2025-05-27+130923.png)](https://youtu.be/SCp0Cyiozx8)
 
 ---
 
